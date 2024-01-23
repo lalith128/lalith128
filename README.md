@@ -15,12 +15,6 @@ I'm a passionate software developer with experience in multiple programming lang
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-
-## GitHub Stats
-[![Lalith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/your-username)
-
-
-
 ## Get in Touch
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
